@@ -1,4 +1,8 @@
-install the following python packages first:
+UserDiscovery
+-
+_**experimenting with user discovery algorithms for a social app in LantasHackathon on 30th January 2016**_
+
+Install the following python packages first:
 
     pip install pymongo
     pip install flask
