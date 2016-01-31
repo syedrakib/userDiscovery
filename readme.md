@@ -1,6 +1,6 @@
 UserDiscovery
 -
-_**experimenting with user discovery algorithms for a social app in LantasHackathon on 30th January 2016**_
+_**experimenting with user discovery algorithms for a social app in LantasHackathon on 30th January 2016 - [ClickHere][1] to see benchmarking results of the experiment.**_
 
 Install the following python packages first:
 
@@ -28,3 +28,6 @@ Recommended tools:
 -
 - Python VirtualEnv - to maitain an isolated virtual environment for this python exercise
 - POSTMan REST Client - a standalone chrome app to make standard POST requests
+
+
+  [1]: https://docs.google.com/spreadsheets/d/1xbuMt9X8IezyohmXNtIAot1oH5Ql2Hx4EWoLOm1MUqw/pubhtml?gid=0&single=true
