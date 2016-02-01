@@ -1,6 +1,8 @@
 UserDiscovery
 -
-_**experimenting with user discovery algorithms for a social app in LantasHackathon on 30th January 2016 - [ClickHere][1] to see benchmarking results of the experiment.**_
+_**experimenting with user discovery algorithms for a social app in LantasHackathon on 30th January 2016 - ensuring stable & quick response for discovering users from among a user's phonebook contacts against an evergrowing directory of millions of app users in the application's database
+
+[ClickHere][1] to see benchmarking results of the experiment.**_
 
 Install the following python packages first:
 
