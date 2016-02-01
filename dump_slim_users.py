@@ -15,8 +15,7 @@ for document in cursor:
 		"email":str(document["email"])
 	}
 	target_file.write("%s\n" % str(doc_to_write))
-	
-	dumped_users+=1
+	dumped_users += 1
 	if (dumped_users % 1000) == 0:
 		print "dumped_users: %d" % dumped_users
 
